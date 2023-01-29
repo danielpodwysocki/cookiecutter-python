@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '{{ cookiecutter.name }}'
-copyright = '2023, {{ cookiecutter.author_firstname }} {{ cookiecuttr.author_lastname }}'
-author = '{{ cookiecutter.author_firstname }} {{ cookiecuttr.author_lastname }}'
+copyright = '2023, {{ cookiecutter.author_firstname }} {{ cookiecutter.author_lastname }}'
+author = '{{ cookiecutter.author_firstname }} {{ cookiecutter.author_lastname }}'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

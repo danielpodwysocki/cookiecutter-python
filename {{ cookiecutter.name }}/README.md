@@ -1,6 +1,6 @@
 # {{ cookiecutter.name }}
 
-{{ cookiecuter.description }}
+{{ cookiecutter.description }}
 
 
 
