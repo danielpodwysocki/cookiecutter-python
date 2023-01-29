@@ -2,8 +2,7 @@
   "author_firstname": "Daniel",
   "author_lastname": "Podwysocki",
   "author_contact_info": "https://github.com/danielpodwysocki",
-  "role_namespace": "danielpodwysocki",
-  "role_name": "<role name>",
-  "role_description": "<one sentence description of the role>",
+  "name": "<project name>",
+  "description": "",
   "license": "MIT"
 }
